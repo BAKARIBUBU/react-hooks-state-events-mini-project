@@ -12,7 +12,7 @@ function App() {
   const [tasks,setTasks]=useState(idArray)
   function addTask(newTask){
      return (
-      // how to set item to top of the list
+      // The item will display on top of the list
       setTasks([newTask,...tasks])
      )
   }
