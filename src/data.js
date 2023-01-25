@@ -29,4 +29,5 @@ export const TASKS = [
     text: "Tidy house",
     category: "Misc",
   },
+  
 ];
